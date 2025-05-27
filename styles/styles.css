@@ -12,6 +12,7 @@ header{
 
 body{
     background-color: azure;
+    overflow-x: hidden;
 }
 
 #content{
